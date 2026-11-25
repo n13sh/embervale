@@ -8,10 +8,10 @@ Dig, build and explore a hand-crafted procedural world: forests, deserts, tundra
 
 | Platform | File | Size | |
 |---|---|---|---|
-| Android 8.0+ | `Embervale.apk` | 71.8 MB | [Download](https://github.com/sterlingaiacademy/embervale/releases/latest/download/Embervale.apk) |
-| Windows 10 / 11 (64-bit) | `Embervale.exe` | 123.7 MB | [Download](https://github.com/sterlingaiacademy/embervale/releases/latest/download/Embervale.exe) |
+| Android 8.0+ | `Embervale.apk` | 71.8 MB | [Download](https://github.com/n13sh/embervale/releases/latest/download/Embervale.apk) |
+| Windows 10 / 11 (64-bit) | `Embervale.exe` | 123.7 MB | [Download](https://github.com/n13sh/embervale/releases/latest/download/Embervale.exe) |
 
-All versions: [Releases](https://github.com/sterlingaiacademy/embervale/releases)
+All versions: [Releases](https://github.com/n13sh/embervale/releases)
 
 ### Install
 
